@@ -1,0 +1,115 @@
+
+npx create-next-app@latest
+src = no
+all yes 
+
+
+shadcn/ui = https://ui.shadcn.com/docs/installation/next
+
+
+
+next js = route grouping
+
+prioirty = for background image to load first before other things 
+
+NextAuth.js
+https://authjs.dev/reference/adapter/prisma?_gl=1*j3zgou*_gcl_au*MTY0ODk4Nzc0My4xNzA5MjM0MTM0LjY0ODg5ODExOC4xNzA5MjM0MTk3LjE3MDkyMzQxOTY.
+
+ npx prisma init
+
+db pass = akashghosh1234
+
+npx prisma db push
+
+npm i -D nodemailer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
