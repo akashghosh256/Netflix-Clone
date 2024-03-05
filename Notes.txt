@@ -69,7 +69,7 @@ This is need to send emails for auth magic emails
 
 
 
-
+My list = 3:14:00 
 
 
 
@@ -148,14 +148,30 @@ DATABASE_URL="postgres://postgres.grjxigugvsokzhmawxaq:akashghosh1234@aws-0-ap-s
 GITHUB_ID=a174329c799621a91007
 GITHUB_SECRET=8574fd1d8e2d2eb09988633d4141186dacdc9683
 
-GOOGLE_CLIENT_ID=514157154435-ur67328o3pptu23e3lhkfq5ur18cbbci.apps.googleusercontent.com
-GOOGLE_CLIENT_SECRET=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
+GOOGLE_CLIENT_ID=1002028878486-86ogret80neq266nuq3imsse5sfah7lr.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
 
 EMAIL_SERVER_USER=resend
 EMAIL_SERVER_PASSWORD=re_ewP72jT7_KoDf6SnF9Qxt718oLQHckmJD
 EMAIL_SERVER_HOST=smtp.resend.com
 EMAIL_SERVER_PORT=465
 EMAIL_FROM=onboarding@resend.dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
