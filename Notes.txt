@@ -1,3 +1,4 @@
+npm run dev
 
 npx create-next-app@latest
 src = no
@@ -24,30 +25,46 @@ npx prisma db push
 npm i -D nodemailer
 
 
+Grouping for login and sign in
 
 
+ npm install next-auth  
 
+npm install @prisma/client @auth/prisma-adapter
+npm install prisma --save-dev
 
+connect supabase
 
 
+ npx prisma db push
 
 
 
+npx shadcn-ui@latest add avatar
+npx shadcn-ui@latest add dropdown-menu
 
 
+npm install @radix-ui/react-dialog
 
 
 
 
 
+creating ow databae schema to store different movies  1:46:00
 
+npx prisma db push
+npx prisma generate
 
 
+npx prisma studio = to check upload status
 
 
+lucid-react for icon like playvideo icon
 
 
+npm install -D nodemailer
 
+This is need to send emails for auth magic emails
 
 
 
@@ -98,6 +115,47 @@ npm i -D nodemailer
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------.env---------------------------------------------------------------
+
+# Environment variables declared in this file are automatically made available to Prisma.
+# See the documentation for more detail: https://pris.ly/d/prisma-schema#accessing-environment-variables-from-the-schema
+
+# Prisma supports the native connection string format for PostgreSQL, MySQL, SQLite, SQL Server, MongoDB and CockroachDB.
+# See the documentation for all the connection string options: https://pris.ly/d/connection-strings
+
+DATABASE_URL="postgres://postgres.grjxigugvsokzhmawxaq:akashghosh1234@aws-0-ap-southeast-1.pooler.supabase.com:5432/postgres"
+
+GITHUB_ID=a174329c799621a91007
+GITHUB_SECRET=8574fd1d8e2d2eb09988633d4141186dacdc9683
+
+GOOGLE_CLIENT_ID=514157154435-ur67328o3pptu23e3lhkfq5ur18cbbci.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+
+EMAIL_SERVER_USER=resend
+EMAIL_SERVER_PASSWORD=re_ewP72jT7_KoDf6SnF9Qxt718oLQHckmJD
+EMAIL_SERVER_HOST=smtp.resend.com
+EMAIL_SERVER_PORT=465
+EMAIL_FROM=onboarding@resend.dev
 
 
 

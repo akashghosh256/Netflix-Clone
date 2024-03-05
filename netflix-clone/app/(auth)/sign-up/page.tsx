@@ -34,7 +34,7 @@ export default async function SignUp() {
       </form>
 
       <div className="text-gray-500 text-sm mt-2">
-        Already Have a account?{" "}
+        Alredy Have a account?{" "}
         <Link className="text-white hover:underline" href="/login">
           Log in now!
         </Link>
