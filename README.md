@@ -4,7 +4,7 @@ Netflix clone application leveraging the latest features of Next.js 14, incorpor
 
 
 ## Screenshots
-## Login or Sign Up
+## Login or Sign Up  using Github or Google
 ![App Screenshot](https://github.com/akashghosh256/Netflix-Clone/blob/main/screenshots/loginorSignin.png)
 
 ## Home 
