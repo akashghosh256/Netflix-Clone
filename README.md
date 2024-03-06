@@ -22,7 +22,8 @@ Netflix clone application leveraging the latest features of Next.js 14, incorpor
 ![App Screenshot](https://github.com/akashghosh256/Netflix-Clone/blob/main/screenshots/watchlist.png)
 
 
-
+## Mobile Devices
+<img src="https://github.com/akashghosh256/Netflix-Clone/blob/main/screenshots/phone.png" width="40%" height="34%">
 
 
 
